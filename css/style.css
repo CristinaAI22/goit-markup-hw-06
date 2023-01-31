@@ -482,7 +482,7 @@ body {
 /*portofolio*/
 .portofolio-section {
   display: flex;
-  width: 1600px;
+  max-width: 1600px;
   justify-content: center;
 }
 .portofolio-section .container {
